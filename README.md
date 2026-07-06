@@ -35,25 +35,6 @@ All solutions are automatically synchronized using **LeetHub**.
 - GitHub
 - LeetHub Extension
 
----
-
-# 📊 Progress
-
-| Difficulty | Solved |
-|------------|--------|
-| 🟢 Easy | 1 |
-| 🟡 Medium | 0 |
-| 🔴 Hard | 0 |
-
-> The table will grow as I solve more problems.
-
----
-
-# 📌 Problem List
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 1 | Two Sum | Easy | ✅ |
 
 ---
 
