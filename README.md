@@ -81,3 +81,15 @@ If you find a better approach or optimization, feel free to open a Pull Request 
 Happy Coding 🚀
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1288-remove-covered-intervals) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1288-remove-covered-intervals) |
+<!---LeetCode Topics End-->
