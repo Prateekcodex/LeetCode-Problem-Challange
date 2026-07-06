@@ -66,7 +66,7 @@ All solutions are automatically synchronized using **LeetHub**.
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 0 |
+| 🟢 Easy | 1 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
 
@@ -91,21 +91,7 @@ All solutions are automatically synchronized using **LeetHub**.
 
 ---
 
-# 📈 Learning Roadmap
 
-- ✅ Arrays
-- ✅ Hash Tables
-- ⏳ Strings
-- ⏳ Linked Lists
-- ⏳ Stacks & Queues
-- ⏳ Trees
-- ⏳ Graphs
-- ⏳ Dynamic Programming
-- ⏳ Advanced Algorithms
-
----
-
-# 🤝 Contributions
 
 This repository is maintained for learning purposes.
 
