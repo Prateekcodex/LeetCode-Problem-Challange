@@ -37,31 +37,6 @@ All solutions are automatically synchronized using **LeetHub**.
 
 ---
 
-# 📂 Problem Categories
-
-| Topic | Problems |
-|--------|----------|
-| Array | ✅ |
-| Hash Table | ✅ |
-| String | ⏳ |
-| Two Pointers | ⏳ |
-| Binary Search | ⏳ |
-| Linked List | ⏳ |
-| Stack | ⏳ |
-| Queue | ⏳ |
-| Tree | ⏳ |
-| Binary Tree | ⏳ |
-| BST | ⏳ |
-| Heap | ⏳ |
-| Sliding Window | ⏳ |
-| Backtracking | ⏳ |
-| Graph | ⏳ |
-| Dynamic Programming | ⏳ |
-| Greedy | ⏳ |
-| Trie | ⏳ |
-
----
-
 # 📊 Progress
 
 | Difficulty | Solved |
