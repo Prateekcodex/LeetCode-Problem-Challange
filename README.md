@@ -68,6 +68,7 @@ Happy Coding 🚀
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0004-median-of-two-sorted-arrays) |
 | [1288-remove-covered-intervals](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1288-remove-covered-intervals) |
 ## Sorting
 |  |
@@ -97,4 +98,12 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
