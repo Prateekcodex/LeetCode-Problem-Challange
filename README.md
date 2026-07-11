@@ -69,6 +69,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0014-longest-common-prefix) |
 | [1288-remove-covered-intervals](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1288-remove-covered-intervals) |
 ## Sorting
 |  |
@@ -104,6 +105,7 @@ Happy Coding 🚀
 | [0008-string-to-integer-atoi](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -124,4 +126,8 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
