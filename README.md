@@ -92,6 +92,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0010-regular-expression-matching) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Happy Coding 🚀
 | [0005-longest-palindromic-substring](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0014-longest-common-prefix) |
@@ -130,6 +132,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0010-regular-expression-matching) |
 ## Trie
 |  |
 | ------- |
