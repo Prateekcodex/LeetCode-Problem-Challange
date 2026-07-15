@@ -71,6 +71,7 @@ Happy Coding 🚀
 | [0004-median-of-two-sorted-arrays](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0027-remove-element) |
 | [1288-remove-covered-intervals](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1288-remove-covered-intervals) |
 ## Sorting
 |  |
@@ -130,6 +131,7 @@ Happy Coding 🚀
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0027-remove-element) |
 ## Dynamic Programming
 |  |
 | ------- |
