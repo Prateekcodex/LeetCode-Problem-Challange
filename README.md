@@ -72,6 +72,7 @@ Happy Coding 🚀
 | [0011-container-with-most-water](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0027-remove-element) |
 | [1288-remove-covered-intervals](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1288-remove-covered-intervals) |
 ## Sorting
@@ -134,6 +135,7 @@ Happy Coding 🚀
 | [0005-longest-palindromic-substring](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0027-remove-element) |
 ## Dynamic Programming
 |  |
