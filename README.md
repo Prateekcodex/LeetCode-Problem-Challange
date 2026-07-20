@@ -75,6 +75,7 @@ Happy Coding 🚀
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0066-plus-one) |
 | [1288-remove-covered-intervals](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1288-remove-covered-intervals) |
 ## Sorting
 |  |
@@ -94,6 +95,7 @@ Happy Coding 🚀
 | [0009-palindrome-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
