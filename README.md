@@ -72,6 +72,7 @@ Happy Coding 🚀
 | [0011-container-with-most-water](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0027-remove-element) |
@@ -82,6 +83,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0018-4sum) |
 | [1288-remove-covered-intervals](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1288-remove-covered-intervals) |
 ## Linked List
@@ -143,6 +145,7 @@ Happy Coding 🚀
 | [0005-longest-palindromic-substring](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0027-remove-element) |
@@ -168,5 +171,4 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-
 <!---LeetCode Topics End-->
