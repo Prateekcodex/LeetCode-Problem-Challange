@@ -83,6 +83,7 @@ Happy Coding 🚀
 | [0136-single-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0268-missing-number) |
 | [1288-remove-covered-intervals](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1288-remove-covered-intervals) |
 ## Sorting
 |  |
@@ -93,6 +94,7 @@ Happy Coding 🚀
 | [0088-merge-sorted-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0268-missing-number) |
 | [1288-remove-covered-intervals](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1288-remove-covered-intervals) |
 ## Linked List
 |  |
@@ -110,6 +112,7 @@ Happy Coding 🚀
 | [0012-integer-to-roman](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -126,6 +129,7 @@ Happy Coding 🚀
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -150,6 +154,7 @@ Happy Coding 🚀
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -198,6 +203,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
