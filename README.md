@@ -89,6 +89,7 @@ Happy Coding 🚀
 | [0414-third-maximum-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0485-max-consecutive-ones) |
 | [1288-remove-covered-intervals](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1288-remove-covered-intervals) |
 ## Sorting
 |  |
