@@ -90,6 +90,7 @@ Happy Coding 🚀
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0561-array-partition) |
 | [1288-remove-covered-intervals](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1288-remove-covered-intervals) |
 ## Sorting
 |  |
@@ -104,6 +105,7 @@ Happy Coding 🚀
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0561-array-partition) |
 | [1288-remove-covered-intervals](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1288-remove-covered-intervals) |
 ## Linked List
 |  |
@@ -203,6 +205,7 @@ Happy Coding 🚀
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0561-array-partition) |
 ## Stack
 |  |
 | ------- |
@@ -232,4 +235,8 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0455-assign-cookies) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
