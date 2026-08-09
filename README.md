@@ -92,6 +92,7 @@ Happy Coding 🚀
 | [0485-max-consecutive-ones](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0605-can-place-flowers) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0892-surface-area-of-3d-shapes) |
 | [1288-remove-covered-intervals](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1288-remove-covered-intervals) |
 ## Sorting
 |  |
@@ -125,6 +126,7 @@ Happy Coding 🚀
 | [0013-roman-to-integer](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0268-missing-number) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0892-surface-area-of-3d-shapes) |
 ## Recursion
 |  |
 | ------- |
@@ -241,4 +243,12 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0561-array-partition) |
+## Geometry
+|  |
+| ------- |
+| [0892-surface-area-of-3d-shapes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0892-surface-area-of-3d-shapes) |
+## Matrix
+|  |
+| ------- |
+| [0892-surface-area-of-3d-shapes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0892-surface-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
