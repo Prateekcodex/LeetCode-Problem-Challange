@@ -155,6 +155,7 @@ Happy Coding 🚀
 | [0010-regular-expression-matching](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0024-swap-nodes-in-pairs) |
+| [0394-decode-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0394-decode-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -200,6 +201,7 @@ Happy Coding 🚀
 | [0383-ransom-note](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0520-detect-capital) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -282,6 +284,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0394-decode-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
 |  |
