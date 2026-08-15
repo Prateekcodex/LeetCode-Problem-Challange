@@ -172,6 +172,7 @@ Happy Coding 🚀
 | [0344-reverse-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0387-first-unique-character-in-a-string) |
+| [0520-detect-capital](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0520-detect-capital) |
 ## Sliding Window
 |  |
 | ------- |
