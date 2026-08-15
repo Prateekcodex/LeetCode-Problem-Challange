@@ -95,6 +95,7 @@ Happy Coding 🚀
 | [0892-surface-area-of-3d-shapes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0896-monotonic-array) |
 | [1288-remove-covered-intervals](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1288-remove-covered-intervals) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Sorting
 |  |
 | ------- |
