@@ -274,6 +274,7 @@ Happy Coding 🚀
 | [0136-single-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0338-counting-bits) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Counting
 |  |
 | ------- |
