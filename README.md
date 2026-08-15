@@ -100,6 +100,7 @@ Happy Coding 🚀
 | [0892-surface-area-of-3d-shapes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0896-monotonic-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1288-remove-covered-intervals) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -164,6 +165,7 @@ Happy Coding 🚀
 | [0383-ransom-note](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1207-unique-number-of-occurrences](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
 |  |
