@@ -121,6 +121,7 @@ Happy Coding 🚀
 | [0561-array-partition](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0561-array-partition) |
 | [1268-search-suggestions-system](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1288-remove-covered-intervals) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Linked List
 |  |
@@ -166,6 +167,7 @@ Happy Coding 🚀
 | [0387-first-unique-character-in-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1207-unique-number-of-occurrences) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
 |  |
@@ -197,6 +199,7 @@ Happy Coding 🚀
 | [1071-greatest-common-divisor-of-strings](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1268-search-suggestions-system](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1268-search-suggestions-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
@@ -291,6 +294,7 @@ Happy Coding 🚀
 | [0169-majority-element](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0387-first-unique-character-in-a-string) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1657-determine-if-two-strings-are-close) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
