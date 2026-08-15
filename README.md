@@ -241,6 +241,7 @@ Happy Coding 🚀
 | [0005-longest-palindromic-substring](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0010-regular-expression-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
@@ -272,6 +273,7 @@ Happy Coding 🚀
 | ------- |
 | [0136-single-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0338-counting-bits) |
 ## Counting
 |  |
 | ------- |
