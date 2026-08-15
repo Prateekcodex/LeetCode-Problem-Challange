@@ -149,6 +149,7 @@ Happy Coding 🚀
 | [0268-missing-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
@@ -170,6 +171,7 @@ Happy Coding 🚀
 | [0205-isomorphic-strings](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -243,6 +245,7 @@ Happy Coding 🚀
 | ------- |
 | [0169-majority-element](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -263,4 +266,8 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0892-surface-area-of-3d-shapes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0892-surface-area-of-3d-shapes) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
