@@ -204,6 +204,7 @@ Happy Coding 🚀
 | [0394-decode-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0520-detect-capital) |
+| [0649-dota2-senate](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0649-dota2-senate) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1268-search-suggestions-system](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1268-search-suggestions-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -280,6 +281,7 @@ Happy Coding 🚀
 | [0455-assign-cookies](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0649-dota2-senate) |
 ## Stack
 |  |
 | ------- |
@@ -334,6 +336,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0933-number-of-recent-calls) |
 ## Euclidean Algorithm
 |  |
