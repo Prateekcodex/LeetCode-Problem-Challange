@@ -334,6 +334,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0933-number-of-recent-calls) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -356,6 +357,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0208-implement-trie-prefix-tree) |
+| [0933-number-of-recent-calls](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0933-number-of-recent-calls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -365,4 +367,8 @@ Happy Coding 🚀
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2390-removing-stars-from-a-string) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
