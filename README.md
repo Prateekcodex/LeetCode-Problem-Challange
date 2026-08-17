@@ -135,6 +135,7 @@ Happy Coding 🚀
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0024-swap-nodes-in-pairs) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -256,6 +257,7 @@ Happy Coding 🚀
 | [0455-assign-cookies](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0455-assign-cookies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
