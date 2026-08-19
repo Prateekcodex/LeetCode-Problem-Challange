@@ -99,6 +99,7 @@ Happy Coding 🚀
 | [0605-can-place-flowers](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0739-daily-temperatures) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0896-monotonic-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1004-max-consecutive-ones-iii) |
@@ -294,6 +295,7 @@ Happy Coding 🚀
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
@@ -382,4 +384,8 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0933-number-of-recent-calls) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
