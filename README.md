@@ -138,6 +138,7 @@ Happy Coding 🚀
 | [0206-reverse-linked-list](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -261,6 +262,7 @@ Happy Coding 🚀
 | [1679-max-number-of-k-sum-pairs](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -292,6 +294,7 @@ Happy Coding 🚀
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0394-decode-string) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
 |  |
