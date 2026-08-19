@@ -199,6 +199,7 @@ Happy Coding 🚀
 | [0020-valid-parentheses](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0171-excel-sheet-column-number) |
@@ -273,6 +274,7 @@ Happy Coding 🚀
 | [0005-longest-palindromic-substring](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0010-regular-expression-matching) |
 | [0062-unique-paths](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0392-is-subsequence) |
