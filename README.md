@@ -296,6 +296,7 @@ Happy Coding 🚀
 | [0020-valid-parentheses](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
@@ -370,6 +371,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0208-implement-trie-prefix-tree) |
+| [0901-online-stock-span](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0933-number-of-recent-calls) |
 ## Heap (Priority Queue)
 |  |
@@ -383,9 +385,11 @@ Happy Coding 🚀
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
