@@ -148,6 +148,7 @@ Happy Coding 🚀
 | [0009-palindrome-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0268-missing-number) |
@@ -269,6 +270,7 @@ Happy Coding 🚀
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0010-regular-expression-matching) |
+| [0062-unique-paths](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0392-is-subsequence) |
@@ -392,4 +394,8 @@ Happy Coding 🚀
 | ------- |
 | [0739-daily-temperatures](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0901-online-stock-span) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
