@@ -98,6 +98,7 @@ Happy Coding 🚀
 | [0561-array-partition](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0643-maximum-average-subarray-i) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0739-daily-temperatures) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0892-surface-area-of-3d-shapes) |
@@ -276,6 +277,7 @@ Happy Coding 🚀
 | [0338-counting-bits](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0435-non-overlapping-intervals) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1143-longest-common-subsequence](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
@@ -294,6 +296,7 @@ Happy Coding 🚀
 | [0561-array-partition](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0649-dota2-senate) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Stack
 |  |
 | ------- |
