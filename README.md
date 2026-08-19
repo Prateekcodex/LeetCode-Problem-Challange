@@ -409,4 +409,16 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1143-longest-common-subsequence) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
