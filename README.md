@@ -155,6 +155,7 @@ Happy Coding 🚀
 | [0268-missing-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0268-missing-number) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0892-surface-area-of-3d-shapes) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -280,6 +281,7 @@ Happy Coding 🚀
 | [0392-is-subsequence](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1137-n-th-tribonacci-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
@@ -424,4 +426,8 @@ Happy Coding 🚀
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0700-search-in-a-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
