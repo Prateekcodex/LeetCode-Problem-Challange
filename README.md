@@ -288,6 +288,7 @@ Happy Coding 🚀
 | [0790-domino-and-tromino-tiling](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0790-domino-and-tromino-tiling) |
 | [1137-n-th-tribonacci-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1143-longest-common-subsequence) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Trie
 |  |
 | ------- |
@@ -426,6 +427,7 @@ Happy Coding 🚀
 | [0700-search-in-a-binary-search-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -442,6 +444,7 @@ Happy Coding 🚀
 | [0700-search-in-a-binary-search-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Memoization
 |  |
@@ -455,6 +458,7 @@ Happy Coding 🚀
 | [0437-path-sum-iii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -463,4 +467,8 @@ Happy Coding 🚀
 | [0199-binary-tree-right-side-view](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0199-binary-tree-right-side-view) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1448-count-good-nodes-in-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
