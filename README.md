@@ -106,6 +106,7 @@ Happy Coding 🚀
 | [0724-find-pivot-index](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0875-koko-eating-bananas) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0896-monotonic-array) |
 | [0994-rotting-oranges](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0994-rotting-oranges) |
@@ -253,6 +254,7 @@ Happy Coding 🚀
 | [0268-missing-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0374-guess-number-higher-or-lower) |
+| [0875-koko-eating-bananas](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2300-successful-pairs-of-spells-and-potions) |
