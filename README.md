@@ -248,6 +248,7 @@ Happy Coding 🚀
 | [0035-search-insert-position](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1268-search-suggestions-system) |
 ## Divide and Conquer
@@ -545,4 +546,8 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2336-smallest-number-in-infinite-set) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
