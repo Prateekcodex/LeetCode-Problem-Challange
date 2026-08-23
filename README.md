@@ -419,6 +419,7 @@ Happy Coding 🚀
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0700-search-in-a-binary-search-tree) |
@@ -431,6 +432,7 @@ Happy Coding 🚀
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0700-search-in-a-binary-search-tree) |
@@ -442,11 +444,13 @@ Happy Coding 🚀
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0199-binary-tree-right-side-view) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0199-binary-tree-right-side-view) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
