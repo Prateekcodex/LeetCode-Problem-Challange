@@ -90,6 +90,7 @@ Happy Coding 🚀
 | [0283-move-zeroes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0399-evaluate-division](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0399-evaluate-division) |
 | [0414-third-maximum-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -214,6 +215,7 @@ Happy Coding 🚀
 | [0387-first-unique-character-in-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0520-detect-capital) |
 | [0649-dota2-senate](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0649-dota2-senate) |
@@ -458,6 +460,7 @@ Happy Coding 🚀
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0841-keys-and-rooms) |
@@ -471,6 +474,7 @@ Happy Coding 🚀
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0199-binary-tree-right-side-view) |
+| [0399-evaluate-division](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -491,11 +495,25 @@ Happy Coding 🚀
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0547-number-of-provinces) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
