@@ -189,6 +189,7 @@ Happy Coding 🚀
 | [1207-unique-number-of-occurrences](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2352-equal-row-and-column-pairs) |
 ## String
 |  |
@@ -395,11 +396,13 @@ Happy Coding 🚀
 | [0208-implement-trie-prefix-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0208-implement-trie-prefix-tree) |
 | [0901-online-stock-span](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0933-number-of-recent-calls) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2336-smallest-number-in-infinite-set) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0215-kth-largest-element-in-an-array) |
 | [1268-search-suggestions-system](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1268-search-suggestions-system) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2336-smallest-number-in-infinite-set) |
 ## Simulation
 |  |
 | ------- |
@@ -524,4 +527,8 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0215-kth-largest-element-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
