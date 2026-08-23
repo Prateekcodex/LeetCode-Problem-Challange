@@ -83,6 +83,7 @@ Happy Coding 🚀
 | [0136-single-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0238-product-of-array-except-self) |
@@ -121,6 +122,7 @@ Happy Coding 🚀
 | [0018-4sum](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -247,6 +249,7 @@ Happy Coding 🚀
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0215-kth-largest-element-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -395,6 +398,7 @@ Happy Coding 🚀
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0215-kth-largest-element-in-an-array) |
 | [1268-search-suggestions-system](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1268-search-suggestions-system) |
 ## Simulation
 |  |
@@ -516,4 +520,8 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0399-evaluate-division) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
