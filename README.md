@@ -419,6 +419,7 @@ Happy Coding 🚀
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
@@ -429,10 +430,19 @@ Happy Coding 🚀
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0700-search-in-a-binary-search-tree) |
 ## Memoization
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1137-n-th-tribonacci-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0199-binary-tree-right-side-view) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
