@@ -152,6 +152,7 @@ Happy Coding 🚀
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -179,6 +180,7 @@ Happy Coding 🚀
 | [0010-regular-expression-matching](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0394-decode-string) |
 ## Hash Table
