@@ -116,6 +116,7 @@ Happy Coding 🚀
 | [1288-remove-covered-intervals](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1288-remove-covered-intervals) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1872-stone-game-viii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1872-stone-game-viii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2352-equal-row-and-column-pairs) |
@@ -170,6 +171,7 @@ Happy Coding 🚀
 | [0892-surface-area-of-3d-shapes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0892-surface-area-of-3d-shapes) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1137-n-th-tribonacci-number) |
+| [1872-stone-game-viii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1872-stone-game-viii) |
 ## Recursion
 |  |
 | ------- |
@@ -310,6 +312,7 @@ Happy Coding 🚀
 | [1137-n-th-tribonacci-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1872-stone-game-viii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1872-stone-game-viii) |
 ## Trie
 |  |
 | ------- |
@@ -404,6 +407,7 @@ Happy Coding 🚀
 | [0238-product-of-array-except-self](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1004-max-consecutive-ones-iii) |
+| [1872-stone-game-viii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1872-stone-game-viii) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -558,4 +562,16 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0374-guess-number-higher-or-lower) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1872-stone-game-viii) |
+## Game Theory
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
