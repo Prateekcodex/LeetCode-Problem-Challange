@@ -165,6 +165,7 @@ Happy Coding 🚀
 | [0009-palindrome-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0171-excel-sheet-column-number) |
@@ -355,6 +356,7 @@ Happy Coding 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0338-counting-bits) |
