@@ -77,6 +77,7 @@ Happy Coding 🚀
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -354,6 +355,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0039-combination-sum](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0039-combination-sum) |
 | [0216-combination-sum-iii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
