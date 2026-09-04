@@ -124,6 +124,7 @@ Happy Coding 🚀
 | [2462-total-cost-to-hire-k-workers](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2542-maximum-subsequence-score) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
 | ------- |
@@ -416,6 +417,7 @@ Happy Coding 🚀
 | [0724-find-pivot-index](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1004-max-consecutive-ones-iii) |
 | [1872-stone-game-viii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/3903-smallest-stable-index-i) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
