@@ -158,6 +158,7 @@ Happy Coding 🚀
 | [0002-add-two-numbers](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0206-reverse-linked-list) |
@@ -278,6 +279,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0215-kth-largest-element-in-an-array) |
 ## Two Pointers
@@ -443,6 +445,7 @@ Happy Coding 🚀
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0215-kth-largest-element-in-an-array) |
 | [1268-search-suggestions-system](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1268-search-suggestions-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2336-smallest-number-in-infinite-set) |
@@ -603,4 +606,12 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0037-sudoku-solver) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
