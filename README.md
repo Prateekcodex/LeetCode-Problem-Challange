@@ -200,6 +200,7 @@ Happy Coding 🚀
 | [0012-integer-to-roman](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0169-majority-element) |
@@ -230,6 +231,7 @@ Happy Coding 🚀
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0125-valid-palindrome) |
@@ -258,6 +260,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0643-maximum-average-subarray-i](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
