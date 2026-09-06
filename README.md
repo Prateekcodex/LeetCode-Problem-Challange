@@ -82,6 +82,7 @@ Happy Coding 🚀
 | [0037-sudoku-solver](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0136-single-number) |
@@ -233,6 +234,7 @@ Happy Coding 🚀
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0125-valid-palindrome) |
@@ -459,6 +461,7 @@ Happy Coding 🚀
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0068-text-justification) |
 | [2352-equal-row-and-column-pairs](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2462-total-cost-to-hire-k-workers) |
