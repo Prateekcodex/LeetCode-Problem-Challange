@@ -252,6 +252,7 @@ Happy Coding 🚀
 | [0443-string-compression](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0520-detect-capital) |
 | [0649-dota2-senate](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0649-dota2-senate) |
+| [0940-distinct-subsequences-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1268-search-suggestions-system) |
@@ -332,6 +333,7 @@ Happy Coding 🚀
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0790-domino-and-tromino-tiling) |
+| [0940-distinct-subsequences-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
