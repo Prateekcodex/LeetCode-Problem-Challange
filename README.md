@@ -81,6 +81,7 @@ Happy Coding 🚀
 | [0036-valid-sudoku](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0068-text-justification) |
@@ -330,6 +331,7 @@ Happy Coding 🚀
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0010-regular-expression-matching) |
+| [0045-jump-game-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0072-edit-distance) |
@@ -358,6 +360,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0334-increasing-triplet-subsequence) |
