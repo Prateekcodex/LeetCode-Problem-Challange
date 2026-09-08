@@ -99,6 +99,7 @@ Happy Coding 🚀
 | [0217-contains-duplicate](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -146,6 +147,7 @@ Happy Coding 🚀
 | [0215-kth-largest-element-in-an-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0435-non-overlapping-intervals) |
@@ -418,6 +420,7 @@ Happy Coding 🚀
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0561-array-partition) |
 ## Geometry
 |  |
