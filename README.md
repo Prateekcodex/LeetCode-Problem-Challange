@@ -94,6 +94,7 @@ Happy Coding 🚀
 | [0135-candy](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0198-house-robber) |
@@ -291,6 +292,7 @@ Happy Coding 🚀
 | [0033-search-in-rotated-sorted-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0374-guess-number-higher-or-lower) |
@@ -322,6 +324,7 @@ Happy Coding 🚀
 | [0088-merge-sorted-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0344-reverse-string) |
