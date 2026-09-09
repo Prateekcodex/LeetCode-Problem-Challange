@@ -81,6 +81,7 @@ Happy Coding 🚀
 | [0036-valid-sudoku](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0066-plus-one) |
@@ -316,6 +317,7 @@ Happy Coding 🚀
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0125-valid-palindrome) |
@@ -339,6 +341,7 @@ Happy Coding 🚀
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0062-unique-paths) |
@@ -386,6 +389,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0901-online-stock-span) |
@@ -502,6 +506,7 @@ Happy Coding 🚀
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0901-online-stock-span) |
 ## Combinatorics
