@@ -104,6 +104,7 @@ Happy Coding 🚀
 | [0283-move-zeroes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0399-evaluate-division) |
 | [0414-third-maximum-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0435-non-overlapping-intervals) |
@@ -188,6 +189,7 @@ Happy Coding 🚀
 | [0171-excel-sheet-column-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0380-insert-delete-getrandom-o1) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0892-surface-area-of-3d-shapes) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1137-n-th-tribonacci-number) |
@@ -221,6 +223,7 @@ Happy Coding 🚀
 | [0217-contains-duplicate](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -469,6 +472,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0208-implement-trie-prefix-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2336-smallest-number-in-infinite-set) |
@@ -645,4 +649,8 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0023-merge-k-sorted-lists) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
