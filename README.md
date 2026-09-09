@@ -220,6 +220,7 @@ Happy Coding 🚀
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0208-implement-trie-prefix-tree) |
@@ -253,6 +254,7 @@ Happy Coding 🚀
 | [0058-length-of-last-word](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0151-reverse-words-in-a-string) |
@@ -282,6 +284,7 @@ Happy Coding 🚀
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
