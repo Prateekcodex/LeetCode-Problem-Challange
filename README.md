@@ -83,6 +83,7 @@ Happy Coding 🚀
 | [0039-combination-sum](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0068-text-justification) |
@@ -461,6 +462,7 @@ Happy Coding 🚀
 | ------- |
 | [0036-valid-sudoku](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0054-spiral-matrix) |
 | [0212-word-search-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0212-word-search-ii) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0892-surface-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0994-rotting-oranges) |
@@ -514,6 +516,7 @@ Happy Coding 🚀
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0068-text-justification) |
 | [2352-equal-row-and-column-pairs](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2390-removing-stars-from-a-string) |
