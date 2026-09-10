@@ -222,6 +222,7 @@ Happy Coding 🚀
 | [0036-valid-sudoku](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0208-implement-trie-prefix-tree) |
@@ -258,6 +259,7 @@ Happy Coding 🚀
 | [0076-minimum-window-substring](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0205-isomorphic-strings) |
@@ -581,6 +583,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0199-binary-tree-right-side-view) |
 | [0399-evaluate-division](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0547-number-of-provinces) |
@@ -670,4 +673,8 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0380-insert-delete-getrandom-o1) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
