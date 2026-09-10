@@ -360,6 +360,7 @@ Happy Coding 🚀
 | [0115-distinct-subsequences](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0392-is-subsequence) |
@@ -533,6 +534,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0437-path-sum-iii) |
@@ -551,6 +553,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0437-path-sum-iii) |
@@ -568,6 +571,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0399-evaluate-division) |
@@ -596,6 +600,7 @@ Happy Coding 🚀
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Lifting
 |  |
