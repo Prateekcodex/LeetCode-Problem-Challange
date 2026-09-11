@@ -84,6 +84,7 @@ Happy Coding 🚀
 | [0042-trapping-rain-water](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0066-plus-one) |
@@ -327,6 +328,7 @@ Happy Coding 🚀
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0918-maximum-sum-circular-subarray) |
@@ -369,6 +371,7 @@ Happy Coding 🚀
 | [0010-regular-expression-matching](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0072-edit-distance) |
