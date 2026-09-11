@@ -163,6 +163,7 @@ Happy Coding 🚀
 | [0169-majority-element](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -243,6 +244,7 @@ Happy Coding 🚀
 | [0205-isomorphic-strings](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -284,6 +286,7 @@ Happy Coding 🚀
 | [0205-isomorphic-strings](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0212-word-search-ii) |
+| [0242-valid-anagram](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0345-reverse-vowels-of-a-string) |
