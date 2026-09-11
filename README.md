@@ -108,6 +108,7 @@ Happy Coding 🚀
 | [0268-missing-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0289-game-of-life) |
 | [0334-increasing-triplet-subsequence](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0380-insert-delete-getrandom-o1) |
@@ -467,6 +468,7 @@ Happy Coding 🚀
 | [0037-sudoku-solver](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0054-spiral-matrix) |
 | [0212-word-search-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0212-word-search-ii) |
+| [0289-game-of-life](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0289-game-of-life) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0892-surface-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -521,6 +523,7 @@ Happy Coding 🚀
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0068-text-justification) |
+| [0289-game-of-life](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0289-game-of-life) |
 | [2352-equal-row-and-column-pairs](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2462-total-cost-to-hire-k-workers) |
