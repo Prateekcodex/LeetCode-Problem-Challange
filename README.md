@@ -131,6 +131,7 @@ Happy Coding 🚀
 | [0875-koko-eating-bananas](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0875-koko-eating-bananas) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0896-monotonic-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1207-unique-number-of-occurrences) |
@@ -328,6 +329,7 @@ Happy Coding 🚀
 | [0023-merge-k-sorted-lists](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0215-kth-largest-element-in-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0918-maximum-sum-circular-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -381,6 +383,7 @@ Happy Coding 🚀
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0790-domino-and-tromino-tiling) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1143-longest-common-subsequence) |
@@ -484,6 +487,7 @@ Happy Coding 🚀
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0649-dota2-senate) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0933-number-of-recent-calls) |
 ## Euclidean Algorithm
 |  |
@@ -708,4 +712,8 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/3483-unique-3-digit-even-numbers) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
