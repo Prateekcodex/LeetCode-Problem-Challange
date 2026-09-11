@@ -141,6 +141,7 @@ Happy Coding 🚀
 | [2352-equal-row-and-column-pairs](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2542-maximum-subsequence-score) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/3483-unique-3-digit-even-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/3904-smallest-stable-index-ii) |
@@ -213,6 +214,7 @@ Happy Coding 🚀
 | [0025-reverse-nodes-in-k-group](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0394-decode-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -241,6 +243,7 @@ Happy Coding 🚀
 | [1679-max-number-of-k-sum-pairs](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2352-equal-row-and-column-pairs) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -692,4 +695,8 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0127-word-ladder) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
