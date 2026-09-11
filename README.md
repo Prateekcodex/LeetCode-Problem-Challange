@@ -83,6 +83,7 @@ Happy Coding 🚀
 | [0039-combination-sum](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0066-plus-one) |
@@ -193,6 +194,7 @@ Happy Coding 🚀
 | [0012-integer-to-roman](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0171-excel-sheet-column-number) |
@@ -468,6 +470,7 @@ Happy Coding 🚀
 | ------- |
 | [0036-valid-sudoku](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0073-set-matrix-zeroes) |
 | [0212-word-search-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0212-word-search-ii) |
