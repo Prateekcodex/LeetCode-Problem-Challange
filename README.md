@@ -89,6 +89,7 @@ Happy Coding 🚀
 | [0054-spiral-matrix](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0073-set-matrix-zeroes) |
