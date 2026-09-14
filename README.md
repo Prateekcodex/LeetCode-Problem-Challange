@@ -205,6 +205,7 @@ Happy Coding 🚀
 | [0066-plus-one](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0380-insert-delete-getrandom-o1) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0892-surface-area-of-3d-shapes) |
@@ -241,6 +242,7 @@ Happy Coding 🚀
 | [0127-word-ladder](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0217-contains-duplicate) |
@@ -360,6 +362,7 @@ Happy Coding 🚀
 | [0151-reverse-words-in-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0345-reverse-vowels-of-a-string) |
@@ -729,4 +732,8 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0918-maximum-sum-circular-subarray) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
