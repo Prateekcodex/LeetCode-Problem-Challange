@@ -208,6 +208,7 @@ Happy Coding 🚀
 | [0202-happy-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0380-insert-delete-getrandom-o1) |
+| [0836-rectangle-overlap](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0836-rectangle-overlap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0892-surface-area-of-3d-shapes) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1137-n-th-tribonacci-number) |
@@ -482,6 +483,7 @@ Happy Coding 🚀
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0836-rectangle-overlap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0892-surface-area-of-3d-shapes) |
 ## Matrix
 |  |
