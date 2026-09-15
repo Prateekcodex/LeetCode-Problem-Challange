@@ -316,6 +316,7 @@ Happy Coding 🚀
 | [1657-determine-if-two-strings-are-close](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2390-removing-stars-from-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -385,6 +386,7 @@ Happy Coding 🚀
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -413,6 +415,7 @@ Happy Coding 🚀
 | [1143-longest-common-subsequence](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1872-stone-game-viii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Trie
 |  |
 | ------- |
@@ -437,6 +440,7 @@ Happy Coding 🚀
 | [0605-can-place-flowers](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2542-maximum-subsequence-score](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2542-maximum-subsequence-score) |
 ## Stack
 |  |
