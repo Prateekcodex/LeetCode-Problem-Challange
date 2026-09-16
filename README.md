@@ -217,6 +217,7 @@ Happy Coding 🚀
 | [0892-surface-area-of-3d-shapes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0892-surface-area-of-3d-shapes) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1137-n-th-tribonacci-number) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1872-stone-game-viii) |
 | [3870-count-commas-in-range](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/3871-count-commas-in-range-ii) |
@@ -414,6 +415,7 @@ Happy Coding 🚀
 | [1137-n-th-tribonacci-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Trie
@@ -535,6 +537,7 @@ Happy Coding 🚀
 | [0238-product-of-array-except-self](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1004-max-consecutive-ones-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/3904-smallest-stable-index-ii) |
@@ -583,6 +586,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Longest Common Subsequence
 |  |
 | ------- |
