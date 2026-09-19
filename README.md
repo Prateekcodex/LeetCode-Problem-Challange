@@ -218,6 +218,7 @@ Happy Coding 🚀
 | [0892-surface-area-of-3d-shapes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0892-surface-area-of-3d-shapes) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1137-n-th-tribonacci-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1872-stone-game-viii) |
 | [3870-count-commas-in-range](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/3870-count-commas-in-range) |
@@ -505,6 +506,7 @@ Happy Coding 🚀
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0836-rectangle-overlap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/0892-surface-area-of-3d-shapes) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Matrix
 |  |
 | ------- |
