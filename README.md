@@ -322,6 +322,7 @@ Happy Coding 🚀
 | [1768-merge-strings-alternately](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -577,6 +578,7 @@ Happy Coding 🚀
 | [2352-equal-row-and-column-pairs](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/2462-total-cost-to-hire-k-workers) |
+| [3498-reverse-degree-of-a-string](https://github.com/Prateekcodex/LeetCode-Problem-Challange/tree/master/3498-reverse-degree-of-a-string) |
 ## Data Stream
 |  |
 | ------- |
